@@ -47,7 +47,9 @@ Focus peaking is a camera feature that highlights areas of high contrast in an i
 ## Screenshots
 
 ### Focus Peaking Off (Original Video)
-![Focus Peaking Off](screenshots/Focus Peaking Off.png)
+![Focus Peaking Off](screenshots/Focus-Peaking-Off.png)
+
+
 
 ### Focus Peaking On (Edges Highlighted)
-![Focus Peaking On](screenshots/Focus Peaking Off.png)
+[Focus Peaking On](screenshots/Focus-Peaking-On.png)
